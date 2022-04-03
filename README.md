@@ -3,6 +3,13 @@ Repository for Linux Foundation / CNCF's KCNA exam prep by **Adrian Gonzalez San
 
 ----------------
 
+**Adrian's resources**
+
+* April 4 - O'Reilly - KCNA Exam Prep slides (English) https://github.com/AdrianGonzalezSanchez/KCNAprep/blob/main/20220404%20-%20Training%20O'Reilly%20-%20KCNA%20Exam%20Prep%20v1.0.pdf
+* KCNA Exam Prep slides (Spanish) ... << COMING SOON >>
+
+----------------
+
 **General cloud topics**
 
 * Types of cloud computing, Red Hat https://www.redhat.com/en/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud
